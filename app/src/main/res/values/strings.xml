@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SQLDemo</string>
+
+    <string name="input_fname">First name</string>
+    <string name="input_age">Age</string>
+    <string name="input_isActive">Active</string>
+
+    <string name="input_buttonView">View All</string>
+    <string name="input_buttonAdd">Add</string>
 </resources>
