@@ -9,6 +9,14 @@ public class PersonModel {
         this.isActive = isActive;
     }
 
+    public PersonModel(int id, String firstName, int age, boolean isActive)
+    {
+        this.id = id;
+        this.firstName = firstName;
+        this.age = age;
+        this.isActive = isActive;
+    }
+
     public PersonModel()
     {
 
